@@ -1,16 +1,16 @@
 # Site settings
-title: Ari Blogs
-email: hello@ariari.io
+title: Meo Electric
+email: hello@meoelectric.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ari writes about the things that get her hyped. 
+  Electrifying personal transportation in Canada.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.ariari.io" # the base hostname & protocol for your site
-twitter_username: imariari
+url: "http://blog.meoelectric.com" # the base hostname & protocol for your site
+twitter_username: MeoElectric
 github_username:  arirawr
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
-  title: Ari Blogs
+  title: Meo Electric
   avatar: avatar.png
   # Header and footer text
   header_text: >
@@ -19,16 +19,16 @@ theme:
      <p>Check out the links above to find me elsewhere on the web.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://github.com/arirawr/blog.ariari.io">this Github repo</a>
+   Follow us on <a href="http://twitter.com/MeoElectric">Twitter</a> and <a href="http://facebook.com/MeoElectric">Facebook</a>
 
   # Icons
   rss: true
-  email_address: "hello@ariari.io" # Full email address, e.g. "sam@example.com"
-  facebook: "avaniderstine"
+  email_address: "hello@meoelectric.com" # Full email address, e.g. "sam@example.com"
+  facebook: "MeoElectric"
   github: "arirawr"
   instagram: "itsariari"
-  linkedin: "http://linkedin.com/in/ariari"
-  twitter: "imariari"
+  linkedin: "http://linkedin.com/Meo-Electric"
+  twitter: "MeoElectric"
 
   # Scripts
   google_analytics: "UA-64453343-1" # Tracking ID, e.g. "UA-000000-01"
@@ -36,7 +36,7 @@ theme:
   katex: false # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Stalk me on"
+  str_follow_on: "Join us on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
   str_next: "Next"
@@ -46,7 +46,7 @@ theme:
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Open+Sans:300italic,400italic,700italic,400,800,300,700"
-  
+
   # Post navigation
   post_navigation: true
 
