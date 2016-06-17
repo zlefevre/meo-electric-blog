@@ -30,7 +30,7 @@ theme:
 
   # Scripts
   google_analytics: "UA-64453343-1" # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: "blogariariio"
+  disqus_shortname: "meoelectric"
   katex: false # Enable if using math markup
 
   # Localization strings
@@ -48,6 +48,7 @@ theme:
   # Post navigation
   post_navigation: true
 
+gems: [jekyll-paginate]
 # PAGINATION
 paginate: 50
 paginate_path: "/:num"

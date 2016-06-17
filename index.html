@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   {% if site.theme.header_text %}
-  <div class="call-out" 
+  <div class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
     {{ site.theme.header_text }}
   </div>
@@ -13,21 +13,24 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
+      <img src="/img/{{ post.image }}" width="400px" height="300px"/>
+      <div>
+        <header>
+          <h1>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
+          </h1>
+          <p class="meta">
+            {{ post.date | date: "%-d %B %Y" }}
+          </p>
+        </header>
+        <div class="excerpt">
+          {{ post.excerpt }}
+          <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+            {{ site.theme.str_continue_reading }}
           </a>
-        </h1>
-        <p class="meta">
-          {{ post.date | date: "%-d %B %Y" }}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme.str_continue_reading }}
-        </a>
+        </div>
       </div>
     </div>
     {% endfor %}

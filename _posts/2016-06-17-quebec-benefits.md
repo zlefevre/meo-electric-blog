@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Benefits for EV Drivers in Quebec"
+date: 2016-06-17 16:30:00
+permalink: /quebec-benifits/
+excerpt: "As of March 2016, 9,211 electric vehicles have been registered in Quebec. Ontario comes in behind with 6,506 and British Columbia next with 3,682. This begs the question, “Why are there so many more electric vehicles in Quebec?"
+image: sample_feature_img_2.png
+---
+
 ## Benifits of EVs in Quebec
 
 The Quebec government openly pushes for an increase of electric vehicles on the road and provides many incentives for the population to help them in reaching their goal of 100,000 EVs by 2020. Not only are carpool lanes open to those driving EVs on the highway, but those driving EVs are also exempt from paying tolls on the road. As of March 2016, 9,211 electric vehicles have been registered in Quebec. Ontario comes in behind with 6,506 and British Columbia next with 3,682. This begs the question, “Why are there so many more electric vehicles in Quebec?”
@@ -9,5 +18,5 @@ Upon purchasing or even before purchasing your electric vehicle, installing a ch
 Insert Meo Electric stuff????????
 
 
-Thinking of purchasing a Tesla? The city of Montreal is more than accommodating to owners of this EV. Montreal’s Tesla service and sales centre, located on Ferrier next to the famous Gibeau Orange Julep, is the largest in North America. Quebec also has 2 Tesla supercharger locations, one located in Montreal at the Ferrier store with 2 chargers and one in Drummondville with 8 chargers. If you’re worried that 2 supercharger locations isn’t enough, at Montreal’s Place Vertu parking lot, a new 12-stall supercharger station is already under construction. In addition, Tesla’s can plug in to any charging station, as the car comes with an adapter for this exact purpose and there are a multitude of charging stations in Quebec. 
+Thinking of purchasing a Tesla? The city of Montreal is more than accommodating to owners of this EV. Montreal’s Tesla service and sales centre, located on Ferrier next to the famous Gibeau Orange Julep, is the largest in North America. Quebec also has 2 Tesla supercharger locations, one located in Montreal at the Ferrier store with 2 chargers and one in Drummondville with 8 chargers. If you’re worried that 2 supercharger locations isn’t enough, at Montreal’s Place Vertu parking lot, a new 12-stall supercharger station is already under construction. In addition, Tesla’s can plug in to any charging station, as the car comes with an adapter for this exact purpose and there are a multitude of charging stations in Quebec.
 
