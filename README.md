@@ -1,4 +1,4 @@
-blog.ariari.io
+blog.meoelectric.com
 ==============
 
-Jekyll blogging for personal site.
+Jekyll blogging for Meo Electric

@@ -14,9 +14,7 @@ theme:
   avatar: avatar.png
   # Header and footer text
   header_text: >
-     <p>My name is <strong>Ari</strong>. I'm a tech evangelist and consultant. I get really passionate about startups, hackathons, marketing, community, web development, and hedgehogs.</p>
-
-     <p>Check out the links above to find me elsewhere on the web.</p>
+     <p>Electric cars electric cars</p>
   header_text_feature_image:
   footer_text: >
    Follow us on <a href="http://twitter.com/MeoElectric">Twitter</a> and <a href="http://facebook.com/MeoElectric">Facebook</a>
@@ -26,7 +24,7 @@ theme:
   email_address: "hello@meoelectric.com" # Full email address, e.g. "sam@example.com"
   facebook: "MeoElectric"
   github: "arirawr"
-  instagram: "itsariari"
+  instagram: "meoelectric"
   linkedin: "http://linkedin.com/Meo-Electric"
   twitter: "MeoElectric"
 
@@ -45,7 +43,7 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Open+Sans:300italic,400italic,700italic,400,800,300,700"
+  google_fonts: "Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic"
 
   # Post navigation
   post_navigation: true
