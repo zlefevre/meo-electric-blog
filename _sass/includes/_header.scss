@@ -29,6 +29,9 @@
   }
 
   .site-nav {
+    display: flex;
+    align-items: center;
+
     ul {
       margin: 0;
       padding: 0;
@@ -47,6 +50,18 @@
         text-align: left;
         width: 100%;
       }
+    }
+
+    .button {
+      color: white;
+      margin-left: 1em;
+      background-color: #AEC836;
+    }
+
+    .button:hover {
+      background-color: white;
+      color: #AEC836;
+      border-color: #AEC836;
     }
   }
 }
