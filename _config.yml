@@ -1,5 +1,5 @@
 # Site settings
-title: Meo Electric
+title: Meo Electric Blog
 email: hello@meoelectric.com
 description: > # this means to ignore newlines until "baseurl:"
   Electric vehicle news and insights from Montréal and around the world. Get the latest on electric cars, government incentives, technological innovation, and electric vehicle charging.
@@ -28,7 +28,7 @@ theme:
   twitter: "MeoElectric"
 
   # Scripts
-  google_analytics: "UA-64453343-1" # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-80196591-1" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: "meoelectric"
   katex: false # Enable if using math markup
 
