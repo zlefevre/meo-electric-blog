@@ -25,9 +25,6 @@
     p a:hover {
       @extend %link-hover;
     }
-    img {
-      margin-right: 2em;
-    }
   }
   .excerpt {
     margin-top: 1em;
@@ -43,4 +40,10 @@
 .pagination {
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
+}
+
+.teaser-feature-image {
+  margin-right: 2em;
+  width: 400px;
+  height: 300px;
 }

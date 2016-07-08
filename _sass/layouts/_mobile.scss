@@ -1,0 +1,22 @@
+@media screen and (max-width:700px) {
+  .post-teaser {
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw !important;
+    padding: 0 !important;
+  }
+  .teaser-feature-image {
+    margin-right: 0;
+    width: 100%;
+    height: auto;
+  }
+  .post-teaser > div {
+    padding: 20px;
+  }
+  .site-header {
+    flex-direction: column;
+  }
+  .post-content {
+    padding: 30px !important;
+  }
+}
