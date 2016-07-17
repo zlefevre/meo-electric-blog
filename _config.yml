@@ -10,7 +10,7 @@ github_username:  arirawr
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
-  title: Meo Electric
+  title: Meo Electric Blog
   avatar: avatar.png
   # Header and footer text
   header_text: >
