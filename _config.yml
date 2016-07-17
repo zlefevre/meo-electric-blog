@@ -11,6 +11,8 @@ github_username:  arirawr
 # THEME-SPECIFIC CONFIGURATION
 theme:
   title: Meo Electric Blog
+  description: > # this means to ignore newlines until "baseurl:"
+  Electric vehicle news and insights from Montréal and around the world. Get the latest on electric cars, government incentives, technological innovation, and electric vehicle charging.
   avatar: avatar.png
   # Header and footer text
   header_text: >
