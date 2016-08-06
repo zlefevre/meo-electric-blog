@@ -19,4 +19,13 @@
   .post-content {
     padding: 30px !important;
   }
+  .half, img.half {
+    width: 100%;
+  }
+  .site-header .site-nav {
+    flex-direction: column;
+    .button {
+      display: none;
+    }
+  }
 }
