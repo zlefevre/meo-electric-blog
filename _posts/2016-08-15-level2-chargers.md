@@ -126,7 +126,7 @@ Schneider’s 30A level 2 charger is highly reviewed by customers. It’s design
 
 ClipperCreek’s charging station is highly recommended and can be easily installed indoors or outdoors. Canadians should take into account that this charging station is priced in USD.
 
-## 6. [JuiceBox™ Pro 40 - Smart 40-Amp EVSE](https://emotorwerks.com/index.php/juicebox-ev-charging-stations/202-juicebox-pro-40-smart-40-amp-evse-with-24-foot-cable/category_pathway-23), $599
+## 6. [JuiceBox™ Pro 40 - Smart 40-Amp EVSE](https://emotorwerks.com/index.php/juicebox-ev-charging-stations/202-juicebox-pro-40-smart-40-amp-evse-with-24-foot-cable/category_pathway-23), $599 US
 
 ![Electric Motor Werks](../img/level2home/Juicebox.jpg){: .half}
 
