@@ -100,7 +100,7 @@ This charging station offered by Leviton, a company that is recommended by at le
 
 #### Cons:
 
-* Low amperage, causing slower charging
+* Only suitable for indoor installation
 {: .half}
 
 {: .clear}
