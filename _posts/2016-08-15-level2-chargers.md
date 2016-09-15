@@ -59,13 +59,14 @@ Coming in at a very affordable price point is the Canadian-made EVDuty 30A Level
 #### Cons:
 
 * Pricier than other home chargers
+* Hard-wired (permanent) installation required
 {: .half}
 
 {: .clear}
 
 Canadian EVSE company AddÉnergie recently [announced](http://blog.meoelectric.com/evs29/) their home charging solution, the Flo Home Charger. The residential model brings AddÉnergie’s smart charging technology to the home, allowing you to manage your energy usage and charging using the FLO Network. On top of this, it is designed to last at least 2x longer than the normal charging station.
 
-## 3. [Leviton  EVB40-PST Evr-Green 400 32A](http://www.leviton.com/OA_HTML/ProductDetail.jsp?partnumber=EVB32-H18&section=37741&minisite=10251), $900
+## 3. [Leviton EVB40-PST EV Charger - 40A](http://www.leviton.com/OA_HTML/ProductDetail.jsp?partnumber=EVB40-PST), $900
 
 ![Leviton](../img/level2home/Leviton.jpg){: .half}
 
@@ -78,7 +79,7 @@ Canadian EVSE company AddÉnergie recently [announced](http://blog.meoelectric.c
 #### Cons:
 
 * Pricey
-* Installation kit sold separately ($90 USD)
+* Installation kit sold separately ($140)
 * No smart charging capabilities
 {: .half}
 
@@ -101,6 +102,7 @@ This charging station offered by Leviton, a company that is recommended by at le
 #### Cons:
 
 * Only suitable for indoor installation
+* Hard-wired (permanent) installation required
 {: .half}
 
 {: .clear}
