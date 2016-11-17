@@ -22,7 +22,7 @@ Unlike level 1 chargers, which can be plugged into a 120V household outlet, leve
 
 _Meo Electric's electricians are specialised in EV charger installations. [Get a free estimate for your project here.](http://meoelectric.com/estimate)_
 
-## 1. [EVDuty-40 - 30A](http://evandmore.com/collections/frontpage/products/charging-station-240-evduty?variant=5051939267), $679
+## 1. [EVDuty-40 - 30A](http://www.timetoelectrify.ca/product/evduty-40-portable/), $679
 
 ![EV Duty Charger](../img/level2home/EVDuty.jpg){: .half}
 
